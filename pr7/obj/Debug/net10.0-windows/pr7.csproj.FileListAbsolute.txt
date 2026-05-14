@@ -1,0 +1,16 @@
+C:\Users\moi_k\OneDrive\Рабочий стол\brro\pr7\pr7\bin\Debug\net10.0-windows\pr7.exe
+C:\Users\moi_k\OneDrive\Рабочий стол\brro\pr7\pr7\bin\Debug\net10.0-windows\pr7.deps.json
+C:\Users\moi_k\OneDrive\Рабочий стол\brro\pr7\pr7\bin\Debug\net10.0-windows\pr7.runtimeconfig.json
+C:\Users\moi_k\OneDrive\Рабочий стол\brro\pr7\pr7\bin\Debug\net10.0-windows\pr7.dll
+C:\Users\moi_k\OneDrive\Рабочий стол\brro\pr7\pr7\bin\Debug\net10.0-windows\pr7.pdb
+C:\Users\moi_k\OneDrive\Рабочий стол\brro\pr7\pr7\obj\Debug\net10.0-windows\pr7.Form1.resources
+C:\Users\moi_k\OneDrive\Рабочий стол\brro\pr7\pr7\obj\Debug\net10.0-windows\pr7.csproj.GenerateResource.cache
+C:\Users\moi_k\OneDrive\Рабочий стол\brro\pr7\pr7\obj\Debug\net10.0-windows\pr7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moi_k\OneDrive\Рабочий стол\brro\pr7\pr7\obj\Debug\net10.0-windows\pr7.AssemblyInfoInputs.cache
+C:\Users\moi_k\OneDrive\Рабочий стол\brro\pr7\pr7\obj\Debug\net10.0-windows\pr7.AssemblyInfo.cs
+C:\Users\moi_k\OneDrive\Рабочий стол\brro\pr7\pr7\obj\Debug\net10.0-windows\pr7.csproj.CoreCompileInputs.cache
+C:\Users\moi_k\OneDrive\Рабочий стол\brro\pr7\pr7\obj\Debug\net10.0-windows\pr7.dll
+C:\Users\moi_k\OneDrive\Рабочий стол\brro\pr7\pr7\obj\Debug\net10.0-windows\refint\pr7.dll
+C:\Users\moi_k\OneDrive\Рабочий стол\brro\pr7\pr7\obj\Debug\net10.0-windows\pr7.pdb
+C:\Users\moi_k\OneDrive\Рабочий стол\brro\pr7\pr7\obj\Debug\net10.0-windows\pr7.genruntimeconfig.cache
+C:\Users\moi_k\OneDrive\Рабочий стол\brro\pr7\pr7\obj\Debug\net10.0-windows\ref\pr7.dll
